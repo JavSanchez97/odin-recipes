@@ -1,3 +1,17 @@
-.list{
-    color: red;
+
+h1{
+    font-family: cursive, sans-serif;
+    text-align: center;
+}
+
+ul{
+    color: blue;
+}
+
+li{
+    font-family: cursive, sans-serif;
+}
+
+.grilled-cheese{
+    border-image: round;
 }
